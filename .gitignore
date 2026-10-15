@@ -1,0 +1,8 @@
+node_modules
+.next
+next-env.d.ts
+.env*.local
+*.tsbuildinfo
+
+# copy of the production database: keep it out of the public repo
+promotions-vouchers-9.xlsx

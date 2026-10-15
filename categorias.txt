@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Eletrônicos",
+    "description": "Aparelhos eletrônicos prontos para uso: smartphones, TVs, fones de ouvido, caixas de som, equipamentos de áudio, câmeras e videogames. Não inclui peças internas de computadores.",
+    "category_group": "Eletrônicos",
+    "is_enabled": true
+  },
+  {
+    "name": "Celulares e Acessórios",
+    "description": "Smartphones, capas, carregadores, películas, smartwatches",
+    "category_group": "Eletrônicos",
+    "is_enabled": true
+  },
+  {
+    "name": "Cozinha e Utilidades",
+    "description": "Utensílios e aparelhos domésticos de uso geral para preparar, servir e consumir alimentos e bebidas: processadores de alimentos, panelas, frigideiras, assadeiras, facas, tábuas, copos e garrafas térmicas, pratos, talheres, armazenamento de alimentos, café, chá e bar.",
+    "category_group": "Casa e Cozinha",
+    "is_enabled": true
+  },
+  {
+    "name": "Limpeza e Organização",
+    "description": "Produtos e acessórios de limpeza, lavanderia, lixeiras, varais, cabides, caixas, cestos, organizadores, sapateiras",
+    "category_group": "Casa e Cozinha",
+    "is_enabled": true
+  },
+  {
+    "name": "Banho, Cama e Casa",
+    "description": "Chuveiros, itens de banheiro, toalhas, roupões, cobertores, lençóis, travesseiros, protetores de colchão, segurança e ferragens",
+    "category_group": "Casa e Cozinha",
+    "is_enabled": true
+  },
+  {
+    "name": "Móveis",
+    "description": "Móveis para sala, quarto, escritório, cozinha e jardim: cadeiras, mesas, escrivaninhas, estantes, armários e sofás.",
+    "category_group": "Móveis",
+    "is_enabled": true
+  },
+  {
+    "name": "Eletrodomésticos",
+    "description": "Geladeiras, fogões, máquinas de lavar, micro-ondas",
+    "category_group": "Eletrodomésticos",
+    "is_enabled": true
+  },
+  {
+    "name": "Roupas Femininas",
+    "description": "Vestuário feminino para mulheres adultas, incluindo vestidos, saias, blusas, calças, camisas, casacos, conjuntos e demais roupas femininas. Inclui macacões e macaquinhos femininos.",
+    "category_group": "Moda Feminina",
+    "is_enabled": true
+  },
+  {
+    "name": "Lingerie e Moda Íntima",
+    "description": "Sutiãs, calcinhas, conjuntos de lingerie, camisolas, baby dolls, robes, cintas modeladoras, corpetes, lingerie sexy, roupa íntima térmica, segunda pele, meias, meias 3/4, meias 7/8, meia-calça, ligas, modeladores, anáguas, peças sem costura, lingerie para gestantes, sutiãs de amamentação, calcinhas para gestantes e outros itens de lingerie, moda íntima, linha maternidade/amamentação e pijama feminino.",
+    "category_group": "Moda Feminina",
+    "is_enabled": true
+  },
+  {
+    "name": "Calçados Femininos",
+    "description": "Botas femininas, botinas femininas, coturnos femininos, ankle boots femininas, chinelos femininos, galochas femininas, mocassins femininos, oxfords femininos, pantufas femininas, sandálias femininas, rasteirinhas femininas, sapatilhas femininas, mules femininos, scarpins femininos, sapatos femininos, tênis femininos, tamancos femininos, plataformas femininas, espadrilles femininas, alpargatas femininas, peep toes femininos, sapatos de salto feminino, calçados casuais femininos, calçados sociais femininos, calçados esportivos femininos, além de palmilhas, cadarços, protetores, calcanheiras, escovas, produtos para limpeza e conservação, organizadores e outros acessórios e itens de cuidado para calçados femininos.",
+    "category_group": "Moda Feminina",
+    "is_enabled": true
+  },
+  {
+    "name": "Bolsas, Carteiras e Acessórios Femininos",
+    "description": "Bolsas femininas, bolsas de mão femininas, bolsas de ombro femininas, bolsas tiracolo femininas, bolsas transversais femininas, bolsas tote femininas, bolsas bucket femininas, clutches femininas, pochetes femininas, carteiras femininas, porta-cartões femininos, porta-moedas femininos, nécessaires femininas, estojos femininos, alças para bolsas femininas, correntes para bolsas, organizadores de bolsa, suportes e divisórias internas, malas femininas, pastas femininas, mochilas femininas, mochilas para notebook femininas, bolsas para notebook femininas, pastas para notebook femininas, capas e cases para notebook, além de fechos, puxadores, mosquetões, chaveiros, protetores, organizadores e outros acessórios para bolsas e itens femininos.",
+    "category_group": "Moda Feminina",
+    "is_enabled": true
+  },
+  {
+    "name": "Acessórios de Moda",
+    "description": "Óculos, Anéis, Bonés, Chapéus, Toucas, Gravatas, Cintos, Luvas e etc...",
+    "category_group": "Moda e Acessórios",
+    "is_enabled": true
+  },
+  {
+    "name": "Roupas Masculinas",
+    "description": "Camisas masculinas, camisetas masculinas, regatas masculinas, polos masculinas, blusas masculinas, calças masculinas, jeans masculinos, bermudas masculinas, shorts masculinos, ternos masculinos, costumes masculinos, blazers masculinos, paletós masculinos, coletes masculinos, jaquetas masculinas, casacos masculinos, sobretudos masculinos, moletons masculinos, suéteres masculinos, cardigãs masculinos, roupas esportivas masculinas, roupas de academia masculinas, roupas sociais masculinas, roupas casuais masculinas, roupas de praia masculinas, sungas, cuecas, cuecas boxer, meias masculinas, pijamas masculinos, robes masculinos, roupas térmicas masculinas e outros itens de vestuário masculino. Inclui macacões masculinos.",
+    "category_group": "Moda Masculina",
+    "is_enabled": true
+  },
+  {
+    "name": "Calçados Masculinos",
+    "description": "Botas masculinas, botinas masculinas, coturnos masculinos, botas de segurança masculinas, calçados de segurança masculinos, chinelos masculinos, galochas masculinas, pantufas masculinas, sandálias masculinas, papetes masculinas, mocassins masculinos, oxfords masculinos, sapatênis masculinos, sapatos sociais masculinos, sapatos casuais masculinos, tênis masculinos, alpargatas masculinas, calçados esportivos masculinos, calçados para trabalho masculinos, além de palmilhas, cadarços, calcanheiras, protetores, escovas, produtos para limpeza e conservação, organizadores e outros acessórios e itens de cuidado para calçados masculinos.",
+    "category_group": "Moda Masculina",
+    "is_enabled": true
+  },
+  {
+    "name": "Acessórios Masculinos",
+    "description": "Carteiras, porta-cartões, porta-moedas, mochilas, malas/pastas de notebook e itens semelhantes",
+    "category_group": "Moda Masculina",
+    "is_enabled": true
+  },
+  {
+    "name": "Roupas Infantis",
+    "description": "Roupas para bebês e crianças, incluindo vestidos, camisetas, calças, bermudas, casacos, pijamas e conjuntos infantis. Inclui macacões e macaquinhos para bebês e crianças.",
+    "category_group": "Moda Infantil",
+    "is_enabled": true
+  },
+  {
+    "name": "Calçados Infantis",
+    "description": "Calçados para bebês e crianças, incluindo tênis, sapatos, sandálias, botas e chinelos infantis.",
+    "category_group": "Moda Infantil",
+    "is_enabled": true
+  },
+  {
+    "name": "Acessórios Infantis",
+    "description": "Acessórios para bebês e crianças, como bonés, faixas de cabelo, mochilas, bolsas e meias. Não inclui roupas nem calçados.",
+    "category_group": "Moda Infantil",
+    "is_enabled": true
+  },
+  {
+    "name": "Saúde",
+    "description": "Vitaminas, equipamentos médicos, higiene, bem-estar",
+    "category_group": "Saúde",
+    "is_enabled": true
+  },
+  {
+    "name": "Esportes e Fitness",
+    "description": "Futebol, Futsal, Basquete, Vôlei, Tênis, Badminton, Boxe, Artes Marciais, Golfe, Rúgbi, Squash, Sinuca, Dardos, Tênis de Mesa, Fitness, Ioga e Pilates, roupas esportivas, calçados esportivos e acessórios de treino",
+    "category_group": "Esporte e Lazer",
+    "is_enabled": true
+  },
+  {
+    "name": "Aventura e Atividades ao Ar Livre",
+    "description": "Acampamento, Caminhada, Ciclismo, Escalada, Pescaria, Canoagem, Natação e Mergulho, Surf, Wakeboard, Esportes de Prancha, esportes de inverno, bolsas impermeáveis, capas de chuva e acessórios outdoor",
+    "category_group": "Esporte e Lazer",
+    "is_enabled": true
+  },
+  {
+    "name": "Brinquedos e Jogos",
+    "description": "Brinquedos educativos, bonecas, carrinhos, jogos",
+    "category_group": "Brinquedos e Jogos",
+    "is_enabled": true
+  },
+  {
+    "name": "Alimentação e Amamentação",
+    "description": "Produtos para alimentar bebês e crianças pequenas: amamentação, mamadeiras, leite infantil, papinhas, lanches infantis, babadores, copos infantis, utensílios para bebês e processadores de papinhas.",
+    "category_group": "Bebês",
+    "is_enabled": true
+  },
+  {
+    "name": "Higiene e Cuidados",
+    "description": "Banho, fraldas, pele, cabelo, higiene oral, lenços, protetor solar, cuidados gerais",
+    "category_group": "Bebês",
+    "is_enabled": true
+  },
+  {
+    "name": "Passeio, Sono e Segurança",
+    "description": "Carrinhos, cadeirinhas, canguru, berços, colchões, monitores de bebê(babás eletrônicas), portões, travas, andadores",
+    "category_group": "Bebês",
+    "is_enabled": true
+  },
+  {
+    "name": "Brinquedos e Desenvolvimento",
+    "description": "Blocos, pelúcias, educativos, robôs, faz de conta, brinquedos ao ar livre, slime e veículos",
+    "category_group": "Bebês",
+    "is_enabled": true
+  },
+  {
+    "name": "Peças e Manutenção",
+    "description": "Motor, suspensão, freios, transmissão, pneus, rodas, bateria, combustível, escapamento, radiadores, correias, fluidos e ferramentas",
+    "category_group": "Automotivo",
+    "is_enabled": true
+  },
+  {
+    "name": "Acessórios Automotivos",
+    "description": "Interior, exterior, capas, bancos, tapetes, placas, espelhos, bagageiros, organizadores, volantes e itens de conforto",
+    "category_group": "Automotivo",
+    "is_enabled": true
+  },
+  {
+    "name": "Som, Eletrônicos e Segurança",
+    "description": "Som automotivo, câmeras, navegação, carregadores, Bluetooth, medidores, sensores, travas e segurança",
+    "category_group": "Automotivo",
+    "is_enabled": true
+  },
+  {
+    "name": "Limpeza e Estética Automotiva",
+    "description": "Lavagem, ceras, polimento, cuidados internos, pneus, vidros, lubrificantes e produtos de conservação",
+    "category_group": "Automotivo",
+    "is_enabled": true
+  },
+  {
+    "name": "Ferramentas e Construção",
+    "description": "Ferramentas elétricas, manuais, materiais de construção",
+    "category_group": "Ferramentas e Construção",
+    "is_enabled": true
+  },
+  {
+    "name": "Jardim e Piscina",
+    "description": "Jardinagem, irrigação, piscinas, decoração externa",
+    "category_group": "Jardim e Piscina",
+    "is_enabled": true
+  },
+  {
+    "name": "Pet Shop",
+    "description": "Alimentação, brinquedos, higiene, acessórios",
+    "category_group": "Pet Shop",
+    "is_enabled": true
+  },
+  {
+    "name": "Livros",
+    "description": "Livros físicos, e-books, didáticos",
+    "category_group": "Livros",
+    "is_enabled": true
+  },
+  {
+    "name": "Papelaria e Escritório",
+    "description": "Material escolar, escritório, organização",
+    "category_group": "Papelaria e Escritório",
+    "is_enabled": true
+  },
+  {
+    "name": "Instrumentos Musicais",
+    "description": "Violão, guitarra, teclado, acessórios",
+    "category_group": "Instrumentos Musicais",
+    "is_enabled": true
+  },
+  {
+    "name": "Games",
+    "description": "Consoles, jogos, Controles, Volantes, Joysticks, Acessórios para consoles, Acessórios para controles, Capas e cases para consoles e Créditos para Jogos.",
+    "category_group": "Games",
+    "is_enabled": true
+  },
+  {
+    "name": "Gamer e Hardware",
+    "description": "Peças internas e componentes para montar ou atualizar computadores: processadores (CPUs) para PC, placas de vídeo, placas-mãe, memórias RAM, SSDs, HDs, fontes de alimentação, gabinetes, coolers, water coolers, ventoinhas, dissipadores, pasta térmica, controladoras RGB/ARGB, placas de som, placas de captura, placas de rede, adaptadores internos, drives ópticos, leitores internos, cabos e extensões para hardware, risers, suportes para placa de vídeo, kits de refrigeração, itens para modding de PC e Gamer: cadeiras gamer, Mesa Gamer e outros produtos que não sejam periféricos e games",
+    "category_group": "Informática",
+    "is_enabled": true
+  },
+  {
+    "name": "Redes e Infraestrutura",
+    "description": "Roteadores, modems, access points, repetidores de sinal, extensores Wi-Fi, sistemas Mesh, placas de rede, adaptadores de rede, switches, hubs, gateways, firewalls, controladoras de rede, antenas, conversores de mídia, transceptores, módulos SFP/SFP+, cabos de rede, cabos de fibra óptica, patch cords, patch panels, conectores, keystones, organizadores de cabos, injetores PoE, switches PoE, splitters PoE, KVMs, extensores KVM, NAS, storages de rede, servidores, racks, gabinetes para servidores, bandejas e acessórios para rack, PDUs, nobreaks/UPS, estabilizadores, filtros de linha, fontes de alimentação, unidades de alimentação, adaptadores de energia, conversores de tensão e outros equipamentos, componentes e acessórios para redes, servidores e infraestrutura de TI.",
+    "category_group": "Informática",
+    "is_enabled": true
+  },
+  {
+    "name": "Computadores e Periféricos",
+    "description": "Computadores completos e periféricos externos, não peças internas de montagem: desktops, computadores All-in-One, Mini PCs, estações de trabalho, barebones, teclados, mouses, combos de teclado e mouse, webcams, microfones, pen drives, leitores de cartão, hubs USB, dockings stations, adaptadores USB, extensores USB, apresentadores sem fio, trackballs, mouse pads, suportes para notebook, bases refrigeradas para notebook, capas para notebook, cases para notebook, bolsas para notebook, carregadores para notebook, fontes para notebook, baterias para notebook, cabos e adaptadores para notebook, expansores de portas, replicadores de portas e outros acessórios externos para computadores e notebooks. Inclui monitores de computador e seus suportes fixos, articulados e braços articulados para monitor.",
+    "category_group": "Informática",
+    "is_enabled": true
+  },
+  {
+    "name": "Impressão e Escritório",
+    "description": "Impressoras, impressoras multifuncionais, impressoras a laser, impressoras jato de tinta, impressoras térmicas, impressoras de etiquetas, impressoras matriciais, scanners, digitalizadores, toners, cartuchos de tinta, refis de tinta, cilindros, unidades de imagem, kits de manutenção para impressoras, etiquetas e suprimentos de impressão, máquinas de ponto, relógios de ponto, fragmentadoras de papel, contadores de cédulas, detectores de cédulas, calculadoras de mesa, encadernadoras, plastificadoras, guilhotinas de papel, projetores para escritório, equipamentos de videoconferência, câmeras para videoconferência, sistemas de conferência, speakerphones, impressoras 3D, filamentos para impressão 3D, resinas para impressão 3D e outros equipamentos, suprimentos e acessórios para impressão e uso profissional em escritórios.",
+    "category_group": "Informática",
+    "is_enabled": true
+  },
+  {
+    "name": "Perfumes e Fragrâncias",
+    "description": "Perfumes Masculinos, Perfumes Femininos, Perfumes Infantis, Perfumes Unissex, Perfumes Corporais e Body Splash",
+    "category_group": "Beleza e Cuidados Pessoais",
+    "is_enabled": true
+  },
+  {
+    "name": "Artesanato e Hobby",
+    "description": "Costura, pintura, modelismo, DIY",
+    "category_group": "Artesanato e Hobby",
+    "is_enabled": true
+  },
+  {
+    "name": "Maquiagem e Skincare",
+    "description": "Acessórios de Maquiagem, Rosto, Olhos, Lábios, Removedores de Maquiagem, Bruma Facial, Hidratante Facial, Limpador Facial, Esfoliante Facial, Máscaras Faciais, Séruns/Essências, Tônicos, Óleo Facial, Protetor Solar Facial, Pós-Sol Facial, Acne, tratamento de olhos e lábios, utensílios faciais, Skincare",
+    "category_group": "Beleza e Cuidados Pessoais",
+    "is_enabled": true
+  },
+  {
+    "name": "Cabelos",
+    "description": "Shampoo, Condicionador, Cuidados com o Cabelo, Tratamento Capilar, Tinta de Cabelo, Estilo do Cabelo, Utensílios Capilares",
+    "category_group": "Beleza e Cuidados Pessoais",
+    "is_enabled": true
+  },
+  {
+    "name": "Corpo e Banho",
+    "description": "Banho e Cuidados com o Corpo, Sabonete, Loções e Manteigas Corporais, Óleo Corporal, Esfoliante Corporal, Máscaras Corporais, Desodorantes, Cremes e Óleos de Massagem, Protetor Solar",
+    "category_group": "Beleza e Cuidados Pessoais",
+    "is_enabled": true
+  },
+  {
+    "name": "Cuidados Pessoais",
+    "description": "Barbear, Depilação, Cuidados com Mãos, Unhas, Pés e Seios, utensílios para depilação, papel absorvente e demais cuidados pessoais",
+    "category_group": "Beleza e Cuidados Pessoais",
+    "is_enabled": true
+  },
+  {
+    "name": "Joias e Relógios",
+    "description": "Relógios, joias, bijuterias",
+    "category_group": "Moda e Acessórios",
+    "is_enabled": true
+  },
+  {
+    "name": "Decoração",
+    "description": "Quadros, iluminação, tapetes, objetos decorativos",
+    "category_group": "Casa e Cozinha",
+    "is_enabled": true
+  },
+  {
+    "name": "Festas e Eventos",
+    "description": "Decoração, fantasias, lembrancinhas",
+    "category_group": "Festas e Eventos",
+    "is_enabled": true
+  },
+  {
+    "name": "Produtos Digitais",
+    "description": "Software, gift cards",
+    "category_group": "Produtos Digitais",
+    "is_enabled": false
+  },
+  {
+    "name": "Viagens e Bagagens",
+    "description": "Malas, mochilas, acessórios de viagem",
+    "category_group": "Viagens e Bagagens",
+    "is_enabled": true
+  },
+  {
+    "name": "Outros",
+    "description": "Categoria não encontrada",
+    "category_group": "Outros",
+    "is_enabled": false
+  }
+]
